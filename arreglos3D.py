@@ -1,5 +1,5 @@
 # Matriz 3D: [Ciudad][Semanas][Días]
-ciudades = ["El Coca", "Lago Agrio", "El Coca"]
+ciudades = ["El Coca", "Lago Agrio", "El Sacha"]
 semanas= ["semana1", "semana2", "semana3", "semana4"]
 dias_semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
 
@@ -19,7 +19,7 @@ temperaturas = [
         [27, 28, 28, 29, 30, 30, 31]   # semana 4
         
     ],
-    # El Coca
+    # El Sacha
     [   [31, 29, 28, 29, 30, 30, 31],  # semana 1
         [32, 29, 30, 28, 28, 29, 29],  # semana 2
         [29, 29, 28, 28, 29, 30, 30],  # semana 3
